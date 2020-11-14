@@ -1,0 +1,17 @@
+{
+  "name": "Hedio",
+  "short_name": "Hedio",
+  "description": "``` bash # install dependencies $ yarn install",
+  "icons": [],
+  "start_url": "/?pwa=true",
+  "display": "standalone",
+  "background_color": "#14D2B8",
+  "theme_color": "#14D2B8",
+  "lang": "fa",
+  "dir": "rtl",
+  "status": "ok",
+  "orientation": "portrait",
+  "gcm_user_visible_only": true,
+  "gcm_sender_id": "103953800507",
+  "prefer_related_applications": true
+}
